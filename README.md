@@ -1,7 +1,3 @@
-The notebook is performing Exploratory Data Analysis (EDA) on FIFA World Cup data using Python. The main libraries used include `pandas`, `numpy`, `matplotlib`, `seaborn`, and `plotly` for visualization. Below is a template for a comprehensive `README.md` file for this project, describing the steps and content observed in the notebook:
-
----
-
 # FIFA World Cup Exploratory Data Analysis (EDA)
 
 This project is focused on performing an in-depth Exploratory Data Analysis (EDA) on FIFA World Cup data. The goal is to uncover patterns, trends, and insights related to world rankings, match statistics, and World Cup performances over the years.
