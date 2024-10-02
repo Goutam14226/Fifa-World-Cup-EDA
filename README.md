@@ -64,16 +64,6 @@ The datasets used in this project include:
 - The `world_cup` dataset provides details such as `year`, `winner`, `runners-up`, `goals_scored`, and more.
 - The `matches` dataset includes comprehensive match information like `date`, `home_team`, `away_team`, `home_score`, `away_score`, and various statistics related to the games.
 
-## Project Structure
-
-```
-├── EDA_(Fifa_World_Cup).ipynb   # Jupyter Notebook containing the entire EDA process
-├── README.md                    # README file (this file)
-├── fifa_ranking_2022-10-06.csv  # FIFA World Rankings dataset
-├── world_cup.csv                # World Cup data
-└── matches_1930_2022.csv        # Historical match data
-```
-
 ## Insights and Conclusion
 
 This EDA reveals various trends and insights into the FIFA World Cup tournaments and team rankings over the years. Notable trends in match outcomes, team performances, and ranking fluctuations are identified, providing a foundation for deeper analysis or predictive modeling.
